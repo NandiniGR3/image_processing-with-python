@@ -1,7 +1,3 @@
-# Program 9: to implement Feature Detection.
-# Menu:
-# 1. Harris Corner 2. MSER 3. SIFT
-
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
@@ -117,3 +113,4 @@ def main():
 
 # Run Program
 main()
+

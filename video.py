@@ -1,8 +1,3 @@
-# to implement homomorphic filtering
-# Menu:
-# 1. Grayscale Image 2. Color Image
-
-
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
@@ -114,3 +109,4 @@ def main():
 # Run the program
 if __name__ == "__main__":
     main()
+

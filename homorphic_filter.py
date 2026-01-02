@@ -64,7 +64,7 @@ def main():
 
     img = cv2.imread(path)
     if img is None:
-        print("⚠ Error: Image not found!")
+        print(" Error: Image not found!")
         return
 
     while True:
@@ -109,4 +109,5 @@ def main():
 # Run the program
 if __name__ == "__main__":
     main()
+
 

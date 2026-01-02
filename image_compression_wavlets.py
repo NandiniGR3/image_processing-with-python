@@ -1,7 +1,3 @@
-# Program 8: to implement image compression using wavelets
-# Menu:
-# Enter the threshold value
-
 import cv2
 import pywt
 import numpy as np
@@ -127,3 +123,4 @@ def main():
 
 # Run program
 main()
+
